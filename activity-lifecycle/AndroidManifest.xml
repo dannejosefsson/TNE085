@@ -34,6 +34,7 @@ limitations under the License.
         <activity android:name=".ActivityB" />
 
         <activity android:name=".ActivityC" />
+        <activity android:name=".ActivityD" />
 
         <activity android:name=".DialogActivity"
                   android:theme="@android:style/Theme.Dialog">
